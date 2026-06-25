@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Jakaria%20Hosen&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Zakaria Hosen</h1>
 
 <h3 align="center">
