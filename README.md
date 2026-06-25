@@ -29,7 +29,7 @@
 ```dart
 class Developer {
 
-  String name = "Zakaria Hosen";
+  String name = "Jakaria Hosen";
 
   String role = "Flutter Developer";
 
@@ -89,10 +89,10 @@ class Developer {
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=hosenzakaria40&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=jakariaHosen10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenzakaria40&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakariaHosen10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,7 +102,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenzakaria
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hosenzakaria40&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakariaHosen10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -112,7 +112,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenzakaria
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosenzakaria40&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakariaHosen10&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -122,7 +122,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenzakaria
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hosenzakaria40&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jakariaHosen10&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
@@ -145,12 +145,12 @@ Clean Architecture     ████░░░░░░ 40%
 
 <div align="center">
 
-<a href="https://github.com/hosenzakaria40">
+<a href="https://github.com/jakariaHosen10">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zakaria-hosen-063843384/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHKu0hAkEaYDQ/profile-displaybackgroundimage-shrink_200_800/B56Z8AD6jEIoAU-/0/1782412454450?e=1784160000&v=beta&t=BFOnKdujb3Ohj7k72JrJcF0J8fI7SimmIGAPEHl8-5I"/>
 </a>
 
 </div>
@@ -161,7 +161,7 @@ Clean Architecture     ████░░░░░░ 40%
 
 ### 💙 Code • Learn • Build • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=hosenzakaria40&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jakariaHosen10&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
