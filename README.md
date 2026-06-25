@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zakaria Hosen</h1>
+<h1 align="center">Hi 👋, I'm Jakaria Hosen</h1>
 
 <h3 align="center">
 Flutter Developer • Web Developer • UI Enthusiast
