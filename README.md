@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/hosenzakaria40/hosenzakaria40/main/assets/banner_github.png"
+    src="https://github.com/jakariaHosen10/assignment/blob/main/assets/banner_github.png"
     alt="Zakaria Hosen GitHub Banner"
     width="100%"
   />
