@@ -47,8 +47,10 @@ I build responsive websites and cross-platform applications using Flutter.
 ✔ Flutter UI
 ✔ BMI Calculation
 ✔ Responsive Design
+✔ Clean Architecture
 
-🔗 Repository: https://github.com/jakariaHosen10/REPOSITORY_NAME
+🔗 Repository: 
+https://github.com/jakariaHosen10/assignment/tree/main/lib/BMIcalculator
 
 ---
 
