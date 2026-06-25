@@ -6,6 +6,10 @@ Flutter Developer • Web Developer • UI Enthusiast
 
 <p align="center">
 I build responsive websites and cross-platform applications using Flutter.
+</p
+  ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross-Platform+App+Developer;Learning+and+Building+Every+Day;Welcome+to+my+GitHub+Profile" />
 </p>
 
 ---
